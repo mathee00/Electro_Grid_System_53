@@ -1,0 +1,24 @@
+Stake holders(actors)
+
+Customer
+Meter Reader
+Electricity board - as the admin
+
+
+Requirements
+
+Monitoring users' power consumption
+Generating monthly bills and sending them to users
+Managing user accounts.
+Managing user due bills(Sending payment reminders and notices etc.).
+Managing reader profiles.
+Managing Announcements(Notices on power cuts etc.).
+
+
+Functions and workload distribution
+
+User Management - Prasad
+Notice Management - Ifham 
+Reader Management - Ajward
+Usage Monitoring System - Supun
+
